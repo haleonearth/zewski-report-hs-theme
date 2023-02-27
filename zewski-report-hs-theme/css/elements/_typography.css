@@ -77,7 +77,7 @@ blockquote {
 
 hr {
   border: none;
-  border-bottom: 1px solid #CCC;
+  border-bottom: 1px solid #ccc;
 }
 
 /* Image alt text */
@@ -85,4 +85,28 @@ hr {
 img {
   font-size: 0.583rem;
   word-break: normal;
+}
+
+.ff_american_typewriter {
+  font-family: itc-american-typewriter, serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.ff_american_typewriter_condensed_light {
+  font-family: itc-american-typewriter-cond, serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ff_american_typewriter_condensed_regular {
+  font-family: itc-american-typewriter-cond, serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ff_american_typewriter_condensed_bold {
+  font-family: itc-american-typewriter-cond, serif;
+  font-weight: 700;
+  font-style: normal;
 }
