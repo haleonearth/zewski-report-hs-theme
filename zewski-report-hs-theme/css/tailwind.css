@@ -1636,12 +1636,6 @@ video {
   row-gap: 1px;
 }
 
-.tw-space-y-10 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-y-reverse: 0;
-  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));
-}
-
 .tw-space-x-0 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(0px * var(--tw-space-x-reverse));
@@ -1876,6 +1870,12 @@ video {
   margin-bottom: calc(0.375rem * var(--tw-space-y-reverse));
 }
 
+.tw-space-y-10 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));
+}
+
 .tw-space-y-11 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(2.75rem * calc(1 - var(--tw-space-y-reverse)));
@@ -2072,6 +2072,10 @@ video {
   --tw-divide-x-reverse: 1;
 }
 
+.tw-justify-self-center {
+  justify-self: center;
+}
+
 .tw-overflow-hidden {
   overflow: hidden;
 }
@@ -2154,6 +2158,36 @@ video {
 .tw-py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.tw-py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.tw-py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.tw-py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.tw-px-12 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.tw-px-24 {
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.tw-px-20 {
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
 
 .tw-pb-16 {
@@ -2522,6 +2556,14 @@ video {
     grid-column: span 6 / span 6;
   }
 
+  .md\:tw-col-span-4 {
+    grid-column: span 4 / span 4;
+  }
+
+  .md\:tw-col-span-8 {
+    grid-column: span 8 / span 8;
+  }
+
   .md\:tw-mt-5 {
     margin-top: 1.25rem;
   }
@@ -2597,6 +2639,11 @@ video {
     margin-bottom: calc(0px * var(--tw-space-y-reverse));
   }
 
+  .md\:tw-px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
   .md\:tw-text-6xl {
     font-size: 3.75rem;
     line-height: 1;
@@ -2647,5 +2694,11 @@ video {
     .dark\:lg\:hover\:\[paint-order\:markers\]:hover {
       paint-order: markers;
     }
+  }
+}
+
+@media (min-width: 1536px) {
+  .\32xl\:tw-max-w-screen-2xl {
+    max-width: 1536px;
   }
 }

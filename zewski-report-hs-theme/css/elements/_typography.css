@@ -134,3 +134,29 @@ img {
   font-weight: 700;
   font-style: normal;
 }
+
+
+
+p {
+  font-size: 1rem;
+  margin: 0 0 1.4rem !important;
+}
+/* Lists */
+
+ul,
+ol {
+  margin: 0 0 1.4rem;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin: 0;
+}
+
+ul.no-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
