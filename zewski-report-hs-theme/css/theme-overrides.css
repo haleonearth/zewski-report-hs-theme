@@ -171,19 +171,20 @@
 {###########################################################################}
 
 html {
-  font-size: {{ body_font.size ~ body_font.size_unit }};
+  font-size: 16px;
 }
 
 body {
-  {{ body_font.style }};
-  color: {{ body_font.color }};
-  font-size: {{ body_font.size ~ body_font.size_unit }};
+  color: #202124;
+  font-size: 1rem;
 }
 
 /* Paragraphs */
 
 p {
-  {{ body_font.style }};
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  font-family: "montserrat", sans-serif;
 }
 
 /* Anchors */
@@ -205,6 +206,21 @@ a:active {
 }
 
 /* Headings */
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  color: #202124;
+}
 
 h1,
 .h1 {

@@ -89,8 +89,32 @@ img {
 
 .ff_american_typewriter {
   font-family: itc-american-typewriter, serif;
-font-weight: 700;
-font-style: normal;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ff_american_typewriter_light {
+  font-family: itc-american-typewriter, serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ff_american_typewriter_light-italic {
+  font-family: itc-american-typewriter, serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ff_american_typewriter_bold {
+  font-family: itc-american-typewriter, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ff_american_typewriter_bold-italic {
+  font-family: itc-american-typewriter, serif;
+  font-weight: 700;
+  font-style: italic;
 }
 
 .ff_american_typewriter_condensed_light {
