@@ -87,10 +87,16 @@ img {
   word-break: normal;
 }
 
-.ff_american_typewriter {
+.ff_american_typewriter-med {
   font-family: itc-american-typewriter, serif;
-  font-weight: 700;
-  font-style: normal;
+font-weight: 500;
+font-style: normal;
+}
+
+.ff_american_typewriter-med-italic {
+  font-family: itc-american-typewriter, serif;
+font-weight: 500;
+font-style: italic;
 }
 
 .ff_american_typewriter_light {

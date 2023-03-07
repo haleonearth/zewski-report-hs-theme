@@ -218,11 +218,12 @@ h6,
 .h6,
 h1,
 .h1 {
+  color: #555557;
   font-size: 52px;
   font-family: itc-american-typewriter, serif;
-font-weight: 700;
-font-style: normal;
-margin-bottom: 6px;
+  font-weight: 500;
+  font-style: normal;
+  margin-bottom: 6px;
 }
 
 

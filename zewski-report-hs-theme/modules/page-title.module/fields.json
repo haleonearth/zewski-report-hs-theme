@@ -1,0 +1,59 @@
+[ {
+  "id" : "ae0b4be6-c5dc-64b8-0fec-17fa48c7bc3e",
+  "name" : "title_banner",
+  "display_width" : null,
+  "label" : "Title Banner",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "8a69cc4d-406e-ca92-093f-99eb4e1883de",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Page Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Page Title"
+  }, {
+    "id" : "e1123973-bc0d-87b3-db1a-46ff96c9d958",
+    "name" : "background_image",
+    "display_width" : null,
+    "label" : "Background Image",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22587179.fs1.hubspotusercontent-na1.net/hubfs/22587179/title-bg-1.jpg",
+      "alt" : "title-bg-1",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 200,
+      "max_width" : 1920,
+      "max_height" : 200
+    }
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "title" : "Page Title",
+    "background_image" : {
+      "size_type" : "auto",
+      "src" : "https://22587179.fs1.hubspotusercontent-na1.net/hubfs/22587179/title-bg-1.jpg",
+      "alt" : "title-bg-1",
+      "loading" : "lazy",
+      "width" : 1920,
+      "height" : 200,
+      "max_width" : 1920,
+      "max_height" : 200
+    }
+  }
+} ]

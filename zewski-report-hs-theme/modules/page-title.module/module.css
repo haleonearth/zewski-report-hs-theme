@@ -1,0 +1,24 @@
+.module_page-title h1 {
+  color: #f8fafc;
+  font-size: 32px;
+  text-align: center;
+  font-family: itc-american-typewriter, serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 2px;
+padding: 20px 0;
+}
+
+@media (min-width: 460px) {
+    .module_page-title h1 {
+  font-size: 42px;
+        letter-spacing: 3px;
+    }
+}
+
+@media (min-width: 768px) {
+    .module_page-title h1 {
+  font-size: 52px;
+        text-align: left;
+    }
+}
