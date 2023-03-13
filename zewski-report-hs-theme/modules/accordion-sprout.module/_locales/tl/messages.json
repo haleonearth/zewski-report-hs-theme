@@ -1,0 +1,87 @@
+{
+  "content.default" : {
+    "message" : "Samantalahin ang madali at napakagandang gamitin na software na nagbibigay sa iyo ng katipiran sa oras at tutulong sa iyong negosyo.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Content",
+    "description" : "",
+    "placeholders" : null
+  },
+  "expanded.label" : {
+    "message" : "Na-expand ayon sa default",
+    "description" : "",
+    "placeholders" : null
+  },
+  "header.default" : {
+    "message" : "Paano gumawa ng magandang template?",
+    "description" : "",
+    "placeholders" : null
+  },
+  "header.label" : {
+    "message" : "Header",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Accordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "override_default_style.help_text" : {
+    "message" : "Magbibigay daan sa iyo ang pag-enable sa opsyon na ito na i-override ang mga default na estilo ng tema. Muling makokonekta pabalik sa mga default na estilo ng tema ang module kapag na-disable ang opsyon na ito.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "override_default_style.label" : {
+    "message" : "I-override sa default na estilo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.accordion_color.label" : {
+    "message" : "Kulay ng header",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.accordion_color.label" : {
+    "message" : "Kulay ng header",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.icon_color.label" : {
+    "message" : "Kulay ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.label" : {
+    "message" : "Aktibo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.accordion_color.label" : {
+    "message" : "Kulay ng header",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.icon_color.label" : {
+    "message" : "Kulay ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.label" : {
+    "message" : "Mag-hover",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.icon_color.label" : {
+    "message" : "Kulay ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.label" : {
+    "message" : "Mga opsyon sa estilo",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -20,14 +20,14 @@ max-w-screen-2xl	max-width: 1536px;
   >
     <a href="#main-content" class="header__skip">Skip to content</a>
 
-    <div class="tw-col-span-12 md:tw-col-span-4">
+    <div class="tw-col-span-12 lg:tw-col-span-4">
       <div class="header__logo header__logo--main">
         {% module "site_logo" path="@hubspot/logo" %}
       </div>
     </div>
 
     <div
-      class="tw-col-span-12 md:tw-col-span-8 tw-flex tw-items-center tw-justify-end"
+      class="tw-col-span-12 lg:tw-col-span-8 tw-flex tw-items-center tw-justify-end"
     >
       {% if content.translated_content.values()|selectattr("published")|length
       or is_listing_view and group.translations %}

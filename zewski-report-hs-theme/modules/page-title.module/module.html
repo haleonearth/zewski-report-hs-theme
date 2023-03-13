@@ -1,7 +1,11 @@
-<div class="module_page-title" style="background-image: url('{{ module.title_banner.background_image.src }}'); background-size: cover; background-repeat: no-repeat;">
-<div class="2xl:tw-max-w-screen-2xl tw-mx-auto tw-px-12">
-  <h1>
-    {% inline_text field="title_banner.title" value="{{ module.title_banner.title }}" no_wrapper=True %}
-  </h1>
-</div>
+<div
+  class="module_page-title"
+  style="background-image: url('{{ module.title_banner.background_image.src }}'); background-size: cover; background-repeat: no-repeat;"
+>
+  <div class="2xl:tw-max-w-screen-2xl tw-mx-auto tw-px-12 md:tw-px-20">
+    <h1 class="md:tw-ml-12">
+      {% inline_text field="title_banner.title" value="{{
+      module.title_banner.title }}" no_wrapper=True %}
+    </h1>
+  </div>
 </div>

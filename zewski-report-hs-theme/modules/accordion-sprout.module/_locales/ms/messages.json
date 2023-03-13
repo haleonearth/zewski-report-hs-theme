@@ -1,0 +1,87 @@
+{
+  "content.default" : {
+    "message" : "Manfaatkan perisian yang hebat lagi intuitif yang menjimatkan masa anda dan akan membantu mengembangkan perniagaan anda.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Kandungan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "expanded.label" : {
+    "message" : "Dikembangkan secara lalai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "header.default" : {
+    "message" : "Bagaimanakah boleh saya membuat templat yang hebat?",
+    "description" : "",
+    "placeholders" : null
+  },
+  "header.label" : {
+    "message" : "Pengepala",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Akordion",
+    "description" : "",
+    "placeholders" : null
+  },
+  "override_default_style.help_text" : {
+    "message" : "Pendayaan pilihan ini akan membenarkan anda menggantikan gaya tema lalai. Penyahdayaan pilihan ini akan menyambungkan semula modul kepada gaya tema lalai.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "override_default_style.label" : {
+    "message" : "Mengatasi gaya lalai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.accordion_color.label" : {
+    "message" : "Warna pengepala",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.accordion_color.label" : {
+    "message" : "Warna pengepala",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.icon_color.label" : {
+    "message" : "Warna ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.active.label" : {
+    "message" : "Aktif",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.accordion_color.label" : {
+    "message" : "Warna pengepala",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.icon_color.label" : {
+    "message" : "Warna ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.hover.label" : {
+    "message" : "Apungan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.icon_color.label" : {
+    "message" : "Warna ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "style.label" : {
+    "message" : "Pilihan gaya",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -6,19 +6,28 @@
   font-weight: 500;
   font-style: normal;
   letter-spacing: 2px;
-padding: 20px 0;
+  padding: 20px 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
 }
 
 @media (min-width: 460px) {
-    .module_page-title h1 {
-  font-size: 42px;
-        letter-spacing: 3px;
-    }
+  .module_page-title h1 {
+    font-size: 42px;
+    letter-spacing: 3px;
+  }
 }
 
 @media (min-width: 768px) {
-    .module_page-title h1 {
-  font-size: 52px;
-        text-align: left;
-    }
+  .module_page-title h1 {
+    font-size: 52px;
+    text-align: left;
+  }
+}
+
+@media (min-width: 860px) {
+  .module_page-title h1 {
+    font-size: 68px;
+  }
 }
