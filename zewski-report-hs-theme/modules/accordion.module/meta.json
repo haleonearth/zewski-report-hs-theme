@@ -3,7 +3,7 @@
   "master_language" : "en",
   "icon" : "../../../mV0_d-cms-growth-theme_hubspot/growth/images/module-icons/down.svg",
   "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
-  "module_id" : 101899911015,
+  "module_id" : 105708799563,
   "label" : "Accordion",
   "is_available_for_new_content" : true
 }

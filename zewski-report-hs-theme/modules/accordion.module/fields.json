@@ -9,6 +9,7 @@
   "choices" : [ [ "caret", "Caret" ], [ "plus", "Plus" ] ],
   "multiple" : false,
   "reordering_enabled" : true,
+  "preset" : null,
   "type" : "choice",
   "default" : "plus"
 }, {
@@ -113,6 +114,7 @@
         "choices" : [ [ "none", "None" ], [ "capitalize", "Capitalize" ], [ "uppercase", "Uppercase" ], [ "lowercase", "Lowercase" ] ],
         "multiple" : false,
         "reordering_enabled" : true,
+        "preset" : null,
         "type" : "choice"
       } ],
       "tab" : "STYLE",
@@ -267,6 +269,7 @@
         "choices" : [ [ "dark", "Dark" ], [ "light", "Light" ], [ "plain", "Plain" ] ],
         "multiple" : false,
         "reordering_enabled" : true,
+        "preset" : null,
         "type" : "choice",
         "default" : "plain"
       } ],
