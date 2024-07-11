@@ -1,0 +1,32 @@
+form.blog-tag-filter {
+    background-color: rgba(255,255,255, 0);
+}
+
+form.blog-tag-filter .blog-tag-filter__select-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+
+
+form.blog-tag-filter .blog-tag-filter__select {
+    margin-right: 12px;
+    background-color: rgba(255,255,255, 0) !important;
+    border-radius: 0;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+
+form.blog-tag-filter .button {
+    color: #fff;
+    padding: 4px 40px;
+    border-radius: 0;
+    border: 2px solid #fff;
+    background-color: rgba(255,255,255, 0);
+}
+
+form.blog-tag-filter .button:hover {
+    color: #fff;
+    background-color: rgba(255,255,255, .2);
+}

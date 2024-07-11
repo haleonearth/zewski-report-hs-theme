@@ -38,8 +38,7 @@
       "controlling_value_regex" : "custom_icon",
       "property" : null,
       "operator" : "EQUAL",
-      "access" : null,
-      "hidden_subfields" : null
+      "access" : null
     },
     "icon_set" : "fontawesome-5.0.10",
     "type" : "icon",
@@ -89,10 +88,12 @@
     } ],
     "tab" : "CONTENT",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   } ],
   "tab" : "CONTENT",
   "expanded" : false,
+  "group_occurrence_meta" : null,
   "type" : "group",
   "default" : [ {
     "social_account" : "facebook-f",
@@ -191,6 +192,7 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "styles.size",
@@ -215,6 +217,7 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "styles.background",
@@ -238,6 +241,7 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "styles.corner",
@@ -261,6 +265,7 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "styles.spacing",
@@ -294,6 +299,7 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "styles.alignment",
@@ -315,9 +321,11 @@
     } ],
     "tab" : "STYLE",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   } ],
   "tab" : "STYLE",
   "expanded" : false,
+  "group_occurrence_meta" : null,
   "type" : "group"
 } ]

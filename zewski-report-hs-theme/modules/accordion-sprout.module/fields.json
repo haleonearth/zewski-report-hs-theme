@@ -53,8 +53,7 @@
     "controlling_value_regex" : "true",
     "property" : null,
     "operator" : "EQUAL",
-    "access" : null,
-    "hidden_subfields" : null
+    "access" : null
   },
   "children" : [ {
     "id" : "style.accordion_color",
@@ -154,6 +153,7 @@
     } ],
     "tab" : "CONTENT",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   }, {
     "id" : "style.active",
@@ -209,9 +209,11 @@
     } ],
     "tab" : "CONTENT",
     "expanded" : false,
+    "group_occurrence_meta" : null,
     "type" : "group"
   } ],
   "tab" : "CONTENT",
   "expanded" : false,
+  "group_occurrence_meta" : null,
   "type" : "group"
 } ]
